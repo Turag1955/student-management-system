@@ -1,0 +1,11 @@
+
+nav.navbar{
+    background: #ddd !important;
+    border-top: 2px solid #c1bcbc !important;
+   border-bottom: 2px solid #c1bcbc !important;
+}
+.navbar-light .navbar-nav .nav-link {
+   
+    font-size: 18px;
+    padding-left: 20px;
+}
