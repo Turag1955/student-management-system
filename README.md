@@ -1,2 +1,2 @@
-Simple Student management system project using php procedural.
+Simple Student management system using php procedural.
 
